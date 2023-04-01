@@ -1,0 +1,20 @@
+.search-box {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 300px;
+    line-height: 30px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    border: 2px solid #acc4ac;
+    margin-bottom: 40px;
+    caret-color: rgb(1, 1, 14);
+    
+  }
+
+  .search-box::placeholder{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: rgb(45, 49, 49);
+  }
